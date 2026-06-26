@@ -1,29 +1,12 @@
 <!DOCTYPE html>
-
 <html>
-
 <head>
-
-    <title>Portfolio ครูชมพูนุท</title>
-
+<title>Portfolio นางสาว รัตนาพร แสงพลู</title>
 </head>
-
-<body>
-
-
-
-<h1>นางสาวชมพูนุท บุญรอต</h1>
-
-
-
-<p>ครูผู้สอนวิชาคอมพิวเตอร์</p>
-
-
-
+<body bgcolor="FF99FF">
+<ing src="imges/125.ipg">
+<h1>นางสาวรัตนาพร แสงพลู</h1>
+<p>นักเรียนชั้นม.6/6</p>
 <p>โรงเรียนพานทอง</p>
-
-
-
 </body>
-
 </html>
